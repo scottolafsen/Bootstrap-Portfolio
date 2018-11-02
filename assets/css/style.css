@@ -1,0 +1,14 @@
+    .bg-light {
+        background-color: #e5ebf1 !important;
+         animation-name: navbar;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+@keyframes navbar {
+    0%   {background-color:#e5ebf1;} 
+    25%  {background-color:#bcd7f1;} 
+    50%  {background-color:#64abf1;}
+    75%  {background-color:#bcd7f1;} 
+    100% {background-color:#e5ebf1;} 
+      }
+

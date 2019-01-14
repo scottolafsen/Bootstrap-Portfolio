@@ -12,3 +12,20 @@
     100% {background-color:#e5ebf1;} 
       }
 
+.pages {
+    color: rgb(39, 1, 1);
+    padding-left: 40px;
+    font-size: 20px;
+}
+body {
+background-color:#e5ebf1;
+}
+.btn {
+    background-color:#64abf1;
+}
+h1 {
+    color: rgb(39, 1, 1);
+}
+.icon {
+    padding-left: 10px;
+}
